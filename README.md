@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development, App Development and Coding
 - 🌱 I’m currently learning front-end technologies
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me Linkedln['www.linkedin.com/in/chanchal-bundela-758838219'] OR chanchalbundela0606@gmail.com
+- 📫 How to reach me www.linkedin.com/in/chanchal-bundela-758838219 OR chanchalbundela0606@gmail.com
