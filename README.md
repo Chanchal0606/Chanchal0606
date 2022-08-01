@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chanchal0606
 - 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning front-end technologies
+- 🌱 I’m currently learning Front-end technologies
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me www.linkedin.com/in/chanchal-bundela-758838219 OR chanchalbundela0606@gmail.com
